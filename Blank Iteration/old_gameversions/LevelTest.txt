@@ -1,0 +1,5 @@
+(Level, "images/background_rework_level_buffer.png")
+(Entity, Character, 0, 398, "")
+(Entity, Hostile, 200, 398)
+Platforms:
+Mobs:
